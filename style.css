@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #202124;
+    color: #fff;
+    height: 600px;
+}
+
+h1 {
+    margin-bottom: 2rem;
+}
+
+button {
+    margin-left: 30rem;
+    margin-bottom: 2rem;
+}
+
+#result {
+    border: 1px solid black;
+    height: 200px;
+}
+
+#result img {
+    width: 800px;
+    height: 380px;
+}
